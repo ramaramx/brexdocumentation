@@ -1,0 +1,47 @@
+# Finance Platform
+
+> Modern financial infrastructure for businesses — banking, corporate cards, global payments, and expense management unified in one platform.
+
+Finance Platform is an all-in-one financial platform designed for startups and growing companies. It provides FDIC-insured business banking, smart corporate cards, international payment capabilities, and automated expense management.
+
+## Pages
+
+- [Home](/index.html): Overview of all products and platform capabilities.
+- [Business Banking](/business-banking.html): FDIC-insured business checking with no fees, instant ACH transfers, and accounting integrations.
+- [Corporate Cards](/corporate-cards.html): Smart corporate cards with spend controls, real-time visibility, and instant card issuance.
+- [Global Banking](/global-banking.html): International payments with competitive FX rates, multi-currency wallets, and local account details.
+- [Expense Management](/expense-management.html): Automated expense reporting, approval workflows, receipt capture, and reconciliation.
+
+## Products
+
+### Business Banking
+FDIC-insured business checking designed for modern companies. Key features:
+- No monthly fees or minimum balance requirements
+- Instant ACH transfers between accounts
+- Real-time balance and transaction visibility
+- Integrations with QuickBooks, Xero, and more
+- Powerful APIs and batch payments for scale
+
+### Corporate Cards
+Smart corporate cards with built-in spend controls and real-time visibility. Key features:
+- Custom spending limits by card, category, or merchant
+- Instant card issuance — virtual and physical
+- Real-time transaction notifications
+- Receipt capture and automatic categorization
+- Higher limits than traditional business cards
+
+### Global Banking
+Send and receive international payments with competitive FX rates. Key features:
+- Competitive foreign exchange rates with transparent pricing
+- Local account details (IBAN, SWIFT, and more)
+- Multi-currency wallets
+- International wire transfers
+- No hidden fees
+
+### Expense Management
+Automate expense reporting, approvals, and reconciliation. Key features:
+- Automatic receipt capture and matching
+- Customizable approval workflows
+- Policy enforcement and compliance
+- One-click reconciliation with accounting software
+- Real-time spend analytics and reporting
